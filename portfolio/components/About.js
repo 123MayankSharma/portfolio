@@ -15,7 +15,7 @@ const About = () => {
                     </h1>
                     <div className="mt-6 text-grey-800 dark:text-white">
                         <p className="mb-4 font-mono">
-                            My Name is Mayank Sharma and I am a Computer Science engineering Student at NSUT East Campus.My Main Interests lie in Linux/Unix, WebDevelopment,and In general learning New things on Various topics.
+                            My Name is Mayank Sharma and I am a Computer Science engineering Student at NSUT East Campus.My Main Interests lie in Linux/Unix, Web Development,and In general learning New things on Various topics.
                             Given below is the Link to my socials! Feel free to contact me!
                         </p>
 
