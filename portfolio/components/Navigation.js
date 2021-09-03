@@ -1,5 +1,5 @@
 import Link from 'next/link'
-
+import ThemeSwitcher from '../components/ThemeSwitcher.js'
 
 
 const Navigation = () => {
@@ -9,7 +9,7 @@ const Navigation = () => {
                 <Link href="#" >
                     <h1 className="font-bold">Mayank Sharma</h1>
                 </Link>
-
+                 <ThemeSwitcher/>
             </div>
         </div>
 
