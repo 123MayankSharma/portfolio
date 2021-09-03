@@ -10,8 +10,8 @@ Made with <a href="https://nextjs.org"  className={"font-bold transition-colors 
                         <div className="flex flex-wrap pt-2 sm:space-x-4 space-x-2 font-medium lg:pt-0">
                             {/* <a href=""className={"transition-colors hover:text-pink-500"} >Twitter</a> */}
         
-                            <a href="https://www.linkedin.com/in/mayank-sharma-87182974"className={"transition-colors hover:text-blue-500"} >Linkedin</a>           
-                            <a href="https://github.com/123MayankSharma"className={"transition-colors hover:text-blue-500"} >Github</a>
+                            <a href="https://www.linkedin.com/in/mayank-sharma-87182974"className={"transition-colors font-bold hover:text-green-500"} >Linkedin</a>           
+                            <a href="https://github.com/123MayankSharma"className={"transition-colors hover:text-green-500 font-bold"} >Github</a>
                            
                         </div>
                     </div>
