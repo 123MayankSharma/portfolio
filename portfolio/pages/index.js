@@ -1,10 +1,9 @@
 import About from '../components/About.js'
 import Head from 'next/head'
 
-
 const Home = () => {
     return (
-        <> 
+        <>
 
             <div className="space-y-14 lg:space-y-24">
                 <Head>
