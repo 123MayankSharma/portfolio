@@ -7,8 +7,8 @@ const Home = () => {
         <> <Transition
             show={true}
             enter="transition ease-linear duration-1000 transform"
-            enterFrom="translate-y-full "
-            enterTo="translate-y-0"
+            enterFrom="opacity-0"
+            enterTo="opacity-100"
             
         >
             <div className="space-y-14 lg:space-y-24">
