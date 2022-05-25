@@ -15,10 +15,9 @@ const Skill = () => {
                 <div className="ml-2 mr-2 mb-4"><ProgressBar pb={40} /></div>
                 <span className="text-left ml-2">JavaScript</span>
                 <div className="ml-2 mr-2 mb-4"><ProgressBar pb={55} /></div>
-                <span className="text-left ml-2">Vimscript</span>
-                <div className="ml-2 mr-2 mb-4"><ProgressBar pb={25} /></div>
-                <span className="text-left ml-2">C</span>
-                <div className="ml-2 mr-2 mb-4"><ProgressBar pb={25} /></div>
+                <span className="text-left ml-2">Golang</span>
+                <div className="ml-2 mr-2 mb-4"><ProgressBar pb={15} /></div>
+ 
 
             </div>
               
@@ -42,13 +41,13 @@ const Skill = () => {
             <div className="ml-2 mr-2 mb-4"><ProgressBar pb={45} /></div>
             <span className="text-left ml-2">Next.js</span>
             <div className="ml-2 mr-2 mb-4"><ProgressBar pb={55} /></div>
-            <span className="text-left ml-2">Tailwind CSS</span>
-            <div className="ml-2 mr-2 mb-4"><ProgressBar pb={30} /></div>
             <span className="text-left ml-2">Node.js</span>
             <div className="ml-2 mr-2 mb-4"><ProgressBar pb={38} /></div>
             <span className="text-left ml-2">Git and Github</span>
             <div className="ml-2 mr-2 mb-4"><ProgressBar pb={40} /></div>
-
+            <span className="text-left ml-2">React Native</span>
+            <div className="ml-2 mr-2 mb-4"><ProgressBar pb={40} /></div>
+ 
 
         </div>
 
